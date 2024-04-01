@@ -1,3 +1,4 @@
 **Marquez, Keith_Module-8-CPE-311-CPE22S3**
 
 # Summary of your learnings for the module:
+In this module, we did the seatwork 8.1 Weather Data Collection, 8.2 Querying and Merging, 8.3 Dataframe Operations, 8.4 Aggregations, 8.5 Time Series and Hands-on Activity 8.1 Aggregating Pandas DataFramesI learned how to work with data in Python using Pandas, NumPy, and Matplotlib. Pandas helped us manipulate and analyze data efficiently, allowing to select specific columns, filter rows, aggregate data, and calculate statistics. I also learned how to generate random data with NumPy and visualize it using Matplotlib, creating plots with customized titles, labels, and legends. Additionally, we explored datetime manipulation techniques, resampling time series data to different frequencies, and performing statistical analysis such as calculating means and differences over time. We also learned how to merge multiple datasets based on common columns. 
